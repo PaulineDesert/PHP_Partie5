@@ -17,7 +17,7 @@
 
     <h1>Exercice 3</h1>
     <p>Avec le tableau de l'exercice , afficher la valeur de l'index 5.</p>
-    <p><?= $months[4] ?></p>
+    <p><?= $months[5] ?></p>
 
 </body>
 
